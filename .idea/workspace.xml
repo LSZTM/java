@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db446019-abb9-4698-a625-9c9435f72143" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bubble_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverse_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bsearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +49,7 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bubble sort">
+  <component name="RunManager" selected="Application.Unnamed">
     <configuration name="Bubble sort" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="bubble_sort" />
       <module name="java" />
@@ -65,6 +59,13 @@
     </configuration>
     <configuration name="Sort" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="normal_sort" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bsearch" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,6 +82,7 @@
       <item itemvalue="Application.reverse_sort" />
       <item itemvalue="Application.Sort" />
       <item itemvalue="Application.Bubble sort" />
+      <item itemvalue="Application.Unnamed" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
