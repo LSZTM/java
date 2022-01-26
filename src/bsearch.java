@@ -16,22 +16,27 @@ public class bsearch {
         int x = input.nextInt();
         int y = 0;
         int midpt = (n/2);
-        int z = n;
+        int z = n-1;
 
 
         while(z<=n){
             if(a[y] == x){
                 System.out.print("positions is: "+y);
+                System.exit(0);
 
             }
             else if(a[z] == x){
                 System.out.print("positions is: "+z);
+                System.exit(0);
 
             }
 
             else if(a[midpt] == x){
 
-                System.out.print("positions is: "+midpt);}
+                System.out.print("positions is: "+midpt);
+                System.exit(0);
+            }
+
             else if(midpt < x){
                 z = midpt;
                 midpt = midpt/2;
@@ -46,9 +51,7 @@ public class bsearch {
 
 
             }
-            else{
-                System.out.print("element not found")
-            }
+
 
 
         }}}
