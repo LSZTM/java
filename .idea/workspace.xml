@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db446019-abb9-4698-a625-9c9435f72143" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/quicksort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/three_waymerge_sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/largest_integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/package-MyfistPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/packages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programiz_course.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/bsearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/bsearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bsearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bsearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -57,7 +57,7 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.bserach">
+  <component name="RunManager" selected="Application.packages">
     <configuration name="Bubble sort" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="bubble_sort" />
       <module name="java" />
@@ -79,6 +79,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="greatest int" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="largest_integer" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="packages" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MMain" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="programiz" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="programiz_course" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="quicksort" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="quick_sort" />
       <module name="java" />
@@ -94,6 +115,9 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.greatest int" />
+      <item itemvalue="Application.programiz" />
+      <item itemvalue="Application.packages" />
       <item itemvalue="Application.reverse_sort" />
       <item itemvalue="Application.Sort" />
       <item itemvalue="Application.Bubble sort" />
